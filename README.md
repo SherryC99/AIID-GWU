@@ -1,24 +1,28 @@
-## Executive Summary
-> 
+[Tentative Work Schedule](https://docs.google.com/spreadsheets/d/1wKuUxDjGla84A0PknrEduSr4THQX8Uk1tx9OrzWIkRs/edit?usp=sharing)
+[Project Proposal](DNSC%206317%20-%20Business%20Analytics%20Practicum/UL-DSRI.docx.pdf)
+## 1. Executive Summary
+* 
 
-## Problem Understanding
-> Literature Review
+## 2. Problem Understanding
+* Literature Review on Media Biases
 
-## Methodology: Data Analyzed
-> 
+## 3. Methodology: Data Analyzed
+* 
 
-## Methodology: Analytics Techniques
-> 
-
-Results/Conclusions/Recommendations
-
-
-Potential Next Steps
+## 4. Methodology: Analytics Techniques
+* 
 
 
-Risk Considerations
+
+5. Results/Conclusions/Recommendations
 
 
-Appendices
+6. Potential Next Steps
+
+
+7. Risk Considerations
+
+
+8. Appendices
 
 
