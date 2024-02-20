@@ -1,6 +1,6 @@
 [Tentative Work Schedule](https://docs.google.com/spreadsheets/d/1wKuUxDjGla84A0PknrEduSr4THQX8Uk1tx9OrzWIkRs/edit?usp=sharing)
-
-[Project Proposal]()
+[Tentative Work Flow Map]
+[Project Proposal](https://github.com/SherryC99/AIID-GWU/blob/d1cc0b1280c780315bd3dda38665957115c34d5e/Appendices/UL-DSRI.docx.pdf)
 ## 1. Executive Summary
 The project aims to computationally analyze the changing trends and rhetoric in AI journalism using data from the AI Incident Database (AIID). By leveraging natural language processing (NLP) techniques such as topic modeling, sentiment analysis, and named entity recognition, the goal is to uncover insights into how the media reports incidents and harms related to AI over time.By examining over 600 incident reports indexed by AIID, the project seeks to understand shifts in sentiment, language usage, and thematic trends in media coverage surrounding AI systems The findings will not only benefit the AIID but also inform stakeholders in AI safety, governance, and compliance.
 
