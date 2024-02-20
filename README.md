@@ -85,4 +85,9 @@ One potential risk is that the dataset may not contain sufficient information to
 ## 8. Appendices
 Links to the data used, code developed for the analysis, and any additional resources relevant to the project will be included in the appendices for reference. This ensures transparency and reproducibility of the analysis and allows for further exploration.Links to relevant literature and resources consulted during the project will also be included. Moreover, appendices might contain data dictionaries or schemas explaining the structure and meaning of the datasets used, along with any additional supplementary materials such as presentation slides,repository files etc. created for dissemination purposes.
 
+[Tentative Work Schedule](https://docs.google.com/spreadsheets/d/1wKuUxDjGla84A0PknrEduSr4THQX8Uk1tx9OrzWIkRs/edit?usp=sharing)
+
+[Tentative Work Flow Map](https://github.com/SherryC99/AIID-GWU/blob/d1cc0b1280c780315bd3dda38665957115c34d5e/Appendices/AIID%20Project%20by%20Group%202.pdf)
+
+[Project Proposal](https://github.com/SherryC99/AIID-GWU/blob/d1cc0b1280c780315bd3dda38665957115c34d5e/Appendices/UL-DSRI.docx.pdf)
 
