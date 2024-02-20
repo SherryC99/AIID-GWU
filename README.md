@@ -32,6 +32,7 @@ Introduction to the challenges and importance of analyzing media coverage of AI,
 * Python: NLP packages
 * MongoDB Compass
 * Google Colab
+The analysis will primarily employ natural language processing (NLP) techniques such as topic modeling, sentiment analysis, and named entity recognition. These techniques will help uncover patterns, trends, and sentiment changes in AI journalism over time.Employing data visualization methods for communicating insights effectively. We leverage a range of inbuilt concepts like mathematical and statistical methodologies, including linear algebra concepts such as Singular Value decomposition and statistical methods. 
 
 
 
