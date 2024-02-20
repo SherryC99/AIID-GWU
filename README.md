@@ -27,7 +27,7 @@ Introduction to the challenges and importance of analyzing media coverage of AI,
 
 ## 3. Methodology: Data Analyzed
 * 
-
+The project will utilize media reports indexed in the AI Incident Database (AIID) to analyze trends and characteristics in AI journalism. The dataset consists of over 600 unique incident reports sourced from 3,500+ journalistic articles. These reports cover a wide range of AI-related topics and incidents, providing rich data for analysis. Additionally, the project may consider expanding the analysis to include other media-type datasets if necessary.Analyzing a corpus of AI-related journalistic reports sourced from the AIID,Exploring trends, sentiment, and language shifts over time in reporting on AI incidents,Identifying common themes, entities, and relationships within the dataset are the main analyzations.
 ## 4. Methodology: Analytics Techniques
 * Python: NLP packages
 * MongoDB Compass
