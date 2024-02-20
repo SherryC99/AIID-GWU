@@ -2,10 +2,13 @@
 
 [Project Proposal]()
 ## 1. Executive Summary
-* 
+The project aims to computationally analyze the changing trends and rhetoric in AI journalism using data from the AI Incident Database (AIID). By leveraging natural language processing (NLP) techniques such as topic modeling, sentiment analysis, and named entity recognition, the goal is to uncover insights into how the media reports incidents and harms related to AI over time.By examining over 600 incident reports indexed by AIID, the project seeks to understand shifts in sentiment, language usage, and thematic trends in media coverage surrounding AI systems The findings will not only benefit the AIID but also inform stakeholders in AI safety, governance, and compliance.
 
 ## 2. Problem Understanding
-* Literature Review on Media Biases
+The AI Incident Database (AIID) records real-world harms caused by AI systems and aims to raise awareness among stakeholders. However, since its inception in 2019, the landscape of AI journalism has evolved, impacting how incidents are reported and perceived. The project seeks to address the following questions: Have certain AI trends fallen away over time? Has sentiment regarding AI harms changed in particular publications? Where do media reports agree or differ in sentiment and language when describing AI harms?
+
+The AI Incident Database (AIID) indexes incidents and harms caused by AI systems based on journalistic reports, but the nature of AI journalism has evolved over time. This project seeks to understand how trends in AI reporting have shifted, whether certain AI topics have garnered more attention than others, and how the sentiment surrounding AI harms has changed in different publications. By answering these questions, the project aims to enhance the understanding of AI discourse and improve the indexing of incident reports in the AIID.
+Introduction to the challenges and importance of analyzing media coverage of AI,Explanation of the need for sentiment analysis in understanding public perception and Overview of the specific research questions addressed in the project are the main problem understandings dealt here.
 
 ## 3. Methodology: Data Analyzed
 * 
