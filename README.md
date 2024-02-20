@@ -10,11 +10,28 @@ The AI Incident Database (AIID) records real-world harms caused by AI systems an
 The AI Incident Database (AIID) indexes incidents and harms caused by AI systems based on journalistic reports, but the nature of AI journalism has evolved over time. This project seeks to understand how trends in AI reporting have shifted, whether certain AI topics have garnered more attention than others, and how the sentiment surrounding AI harms has changed in different publications. By answering these questions, the project aims to enhance the understanding of AI discourse and improve the indexing of incident reports in the AIID.
 Introduction to the challenges and importance of analyzing media coverage of AI,Explanation of the need for sentiment analysis in understanding public perception and Overview of the specific research questions addressed in the project are the main problem understandings dealt here.
 
+
+### Literature review on Media Biases
+[Literature review 1 Source](https://www.tandfonline.com/doi/full/10.1080/21670811.2021.1969974)
+**Summary**: The article examines how AI-generated news can mitigate perceptions of hostile media bias (HMB) through the activation of the machine heuristic, which suggests machines are more objective and unbiased than humans. Using an online experiment, it finds that stories presented as sourced from AI journalists lower HMB, particularly among individuals with more extreme partisan attitudes. The effect of machine cues on reducing perceived bias suggests potential for AI in journalism to address challenges of public distrust and political polarization.
+
+[Literature review 2 Source](https://www.tandfonline.com/doi/full/10.1080/14680777.2023.2263659)
+**Summary**: The study, "The Invisible Women: Uncovering Gender Bias in AI-generated Images of Professionals," explores gender bias in AI-generated images across four professions (law, medicine, engineering, and scientific research). Analyzing 99 images from nine text-to-image generators, the study finds a significant gender bias, with men represented in 76% of images and women only in 8%. This bias is consistent across all professions and varies among different AI generators, highlighting the need for more inclusive AI design to address gender inequalities.
+
+
+[Literature review 3 Source]()
+**Summary**:
+
+[Literature review 4 Source]()
+**Summary**:
+
 ## 3. Methodology: Data Analyzed
 * 
 
 ## 4. Methodology: Analytics Techniques
-* 
+* Python: NLP packages
+* MongoDB Compass
+* Google Colab
 
 
 
